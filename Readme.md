@@ -1,8 +1,9 @@
+# 📌 Transformer Model: Encoder–Decoder Architecture in PyTorch
+
 <p align="center">
-  <img src="imgs/TM.png" alt="TM" width="500">
+  <img src="imgs/TM.png" alt="TM" width="300">
 </p>
 
-# 📌 Transformer Model: Encoder–Decoder Architecture in PyTorch
 > Implementation of the Transformer architecture from scratch using PyTorch. This project demonstrates the key building blocks of Transformers—positional encoding, multi-head attention, encoder and decoder layers—without relying on high-level libraries like Hugging Face.
 
 
