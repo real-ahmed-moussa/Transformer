@@ -6,6 +6,7 @@
 
 > Implementation of the Transformer architecture from scratch using PyTorch. This project demonstrates the key building blocks of Transformers—positional encoding, multi-head attention, encoder and decoder layers—without relying on high-level libraries like Hugging Face.
 
+---
 
 ## 📖 Overview
 This project provides a clear, modular implementation of the Transformer model in PyTorch. It can serve as an **educational reference** for understanding sequence-to-sequence architectures, attention mechanisms, and model training workflows.
@@ -17,6 +18,7 @@ The notebook includes detailed class definitions for:
 - Encoder & Decoder Blocks
 - Full Encoder–Decoder Transformer
 
+---
 
 ## 🚀 Features
 ✅ **Pure PyTorch Implementation:** No reliance on pre-built Transformer classes.  
@@ -31,6 +33,7 @@ This implementation can be used to:
 - Experiment with sequence modeling tasks (summarization, text generation).
 - Serve as a learning tool for students and practitioners studying Transformers.
 
+---
 
 ## ⚙️ Tech Stack
 | Technology   | Purpose                                                    |
@@ -38,6 +41,7 @@ This implementation can be used to:
 | `PyTorch`    | Core implementation (attention, encoder/decoder, training) |
 | `Lightning`  | Training orchestration (optional, via PyTorch Lightning)   |
 
+---
 
 ## Original Transformer Architecture
 Figure is from the original ***Attention Is All You Need*** paper (see the references).
@@ -45,6 +49,7 @@ Figure is from the original ***Attention Is All You Need*** paper (see the refer
   <img src="imgs/Original_Transformer_Arch.png" alt="Original Transformer Architecture" width="500">
 </p>
 
+---
 
 ## 📂 Project Structure
 <pre>
@@ -54,6 +59,7 @@ Figure is from the original ***Attention Is All You Need*** paper (see the refer
  ┗ README.md               
 </pre>
 
+---
 
 ## 🛠️ Installation
 1️⃣ **Clone the Repository**
@@ -72,6 +78,7 @@ pip install torch lightning
 jupyter notebook Transformer_Model.ipynb
 </pre>
 
+---
 
 ## 📊 Results
 - **Multi-Head Attention** successfully captures token-level dependencies across sequences.
@@ -79,10 +86,12 @@ jupyter notebook Transformer_Model.ipynb
 - Model achieves **stable training** using Adam optimizer and LayerNorm.
 > ⚡ For demonstration purposes, toy datasets (e.g., random sequences) can be used. Real NLP tasks (translation, summarization) can be plugged in with minimal modifications.
 
+---
 
 ## 📚 References
 Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention Is All You Need. Advances in Neural Information Processing Systems (NeurIPS).
 
+---
 
 ## 📝 License
 This project is shared for portfolio purposes only and may not be used for commercial purposes without permission.
