@@ -58,8 +58,8 @@ Figure is from the original ***Attention Is All You Need*** paper (see the refer
 ## 🛠️ Installation
 1️⃣ **Clone the Repository**
 <pre>
-git clone https://github.com/ahmedmoussa/Projects-Portfolio.git
-cd 'Transformer Model - Encoder–Decoder Architecture in PyTorch'
+git clone https://github.com/ahmedmoussa/Transformer.git
+cd Transformer
 </pre>
 
 2️⃣ **Install Dependencies**
