@@ -1,4 +1,4 @@
-# 📌 Transformer Model: Encoder–Decoder Architecture in PyTorch
+# Transformer Model: Encoder–Decoder Architecture in PyTorch
 
 <p align="center">
   <img src="imgs/TM.png" alt="TM" width="300">
