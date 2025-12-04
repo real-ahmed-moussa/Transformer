@@ -85,4 +85,6 @@ Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Ka
 
 
 ## 📝 License
-This project is shared for portfolio purposes only and may not be used for commercial purposes without permission.
+- This project is shared for portfolio purposes only and may not be used for commercial purposes without permission.
+- This project is licensed under the **MIT License**.  
+© 2025 **Dr. Ahmed Moussa**
