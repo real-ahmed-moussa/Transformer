@@ -80,7 +80,7 @@ jupyter notebook Transformer_Model.ipynb
 > ⚡ For demonstration purposes, toy datasets (e.g., random sequences) can be used. Real NLP tasks (translation, summarization) can be plugged in with minimal modifications.
 
 
-## References
+## 📚 References
 Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention Is All You Need. Advances in Neural Information Processing Systems (NeurIPS).
 
 
